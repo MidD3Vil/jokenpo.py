@@ -1,2 +1,2 @@
-# Jokenpo.Py
+# jokenpo.py
 Script simples do famoso jogo "Pedra, Papel, Tesoura", feito totalmente em Python para estudo pessoal.
