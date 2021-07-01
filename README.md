@@ -23,6 +23,7 @@ $ pkg upgrade -y && pkg update -y
 $ pkg install git python figlet -y
 $ git clone https://github.com/drmidnightytb/jokenpo.py
 $ cd jokenpo.py
+$ pip install emoji
 $ python3 main.py
 ```
 
