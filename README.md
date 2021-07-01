@@ -1,7 +1,6 @@
 # <h2 align="center">🖥 Jokenpô.Py</h2>
 ---------------------------------------------------------------------------
-'''
-Este é um jogo simples, feito totalmente em python que serve mais para estudo pessoal.
+'''Este é um jogo simples, feito totalmente em python que serve mais para estudo pessoal.
 Por mais simples e não muito prático, este jogo conta com sistema de 'contagem de pontos' 
 muito divertido para tempo livre.
 
@@ -9,8 +8,8 @@ muito divertido para tempo livre.
 A escolha da máquina é 100% ramdomizada.
 
 
-Bom, é isso. Espero que gostem...
-'''
+Bom, é isso. Espero que gostem...'''
+
 ---------------------------------------------------------------------------
 
 <h2 align="center">🖥 Install</h2>
