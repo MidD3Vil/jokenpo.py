@@ -21,7 +21,7 @@ muito divertido para tempo livre.
 💻 Termux
 $ pkg upgrade -y && pkg update -y
 $ pkg install git python figlet -y
-$ git clone https://github.com/drmidnightytb/jokenpo.py
+$ git clone https://github.com/MidD3Vil/jokenpo.py
 $ cd jokenpo.py
 $ pip install emoji
 $ python3 main.py
